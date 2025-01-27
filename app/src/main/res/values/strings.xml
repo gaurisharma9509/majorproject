@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mylogin1</string>
+    <string name="go_map">GO MAP</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_login_with_your_information">Please login with your information</string>
+    <string name="Email_Address" />
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">Or login with</string>
+    <string name="finnote">FinNote</string>
+    <string name="twitter_icon" />
+    <string name="github_icon" />
+    <string name="facebook_icon" />
+    <string name="password_icon" />
+    <string name="email_icon" />
+    <string name="email_address" />
+    <string name="money_icon" />
+    <string name="email_address_hint" />
+    <string name="password_hint" />
+</resources>
