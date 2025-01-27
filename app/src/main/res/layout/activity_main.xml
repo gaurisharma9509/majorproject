@@ -139,6 +139,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="@string/login"
+                android:textColor="@color/golden"
                 app:cornerRadius="32dp" />
 
             <View
